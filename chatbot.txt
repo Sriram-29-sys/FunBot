@@ -1,0 +1,6 @@
+Chatbots are AI programs that simulate conversation with users.
+They can be rule-based or use machine learning.
+This project is FunBot, Devi's Python chatbot for learning NLP.
+Natural language processing (NLP) is a field of AI focused on understanding human language.
+Python is a popular language for building chatbots.
+You can ask FunBot simple questions about chatbots, AI, and general knowledge.
